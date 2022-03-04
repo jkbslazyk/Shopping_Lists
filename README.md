@@ -10,4 +10,4 @@ After lauching Menu presents all features and let us choose an operation. Mostly
 Due to different ways of determination amount of given product there are some additional classes (which are inherited from the base class Product) which allow to choose way of counting our products. Beyond units, sometimes you need to use volume (l/ml) or weight (kg/dag/g). 
 
 ### Running
-The program can be run without arguments and operated directly by the user or with the use of a file containing values loaded by the program (example file: stdin3.txt).
+The program can be run without arguments and operated directly by the user or with the use of a file containing values loaded by the program.
